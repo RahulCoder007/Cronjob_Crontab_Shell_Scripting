@@ -1,6 +1,6 @@
 #!/bin/bash
 
-	#path location needs to be changed if run on TA's Ubuntu machine bcoz "/mnt/e/Shell/myfile.sh" this is my system path for Linux on Windows
+	#path location needs to be changed if run on a pure Ubuntu machine bcoz "/mnt/e/Shell/myfile.sh" this is my system path for Linux on Windows
 	#crontab statmemts
 	#crontab -e
 	#* * * * * /bin/bash /mnt/e/Shell/myfile.sh
