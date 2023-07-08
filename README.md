@@ -1,4 +1,4 @@
-# Cronjob_Crontab_Shell_Scripting
+# Cronjob/Crontab Shell Scripting
 ## Problem:
 This assignment involves scheduling a shell script to run periodically every minute. You can achieve this in
 the Unix/Linux system using the Cron job/Crontab.
